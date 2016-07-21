@@ -8,12 +8,12 @@ Imports System.Runtime.InteropServices
 
 ' Review the values of the assembly attributes
 
-<Assembly: AssemblyTitle("DropshadowBorderlessForm")> 
-<Assembly: AssemblyDescription("")> 
-<Assembly: AssemblyCompany("")> 
-<Assembly: AssemblyProduct("DropshadowBorderlessForm")> 
-<Assembly: AssemblyCopyright("Copyright ©  2016")> 
-<Assembly: AssemblyTrademark("")> 
+<Assembly: AssemblyTitle("Dropshadow Borderless WinForm")> 
+<Assembly: AssemblyDescription("Adierebel")> 
+<Assembly: AssemblyCompany("Adierebel")> 
+<Assembly: AssemblyProduct("Dropshadow Borderless WinForm")> 
+<Assembly: AssemblyCopyright("Copyright © Adierebel 2016")> 
+<Assembly: AssemblyTrademark("2016, Adierebel")> 
 
 <Assembly: ComVisible(False)>
 
