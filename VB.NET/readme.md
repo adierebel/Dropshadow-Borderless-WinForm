@@ -1,9 +1,7 @@
-# Dropshadow Borderless WinFrom
+# Dropshadow Borderless From VB.NET
 Create dropshadow on borderless windows form.
 ## Notes
-- Add New C# Source<br />
-- Add VB.NET Source<br />
-IDE : Microsoft Visual C# 2008 and Microsoft Visual Basic 2008
+IDE : Microsoft Visual Basic 2008 .NET
 ## License
 Under WTFPL - http://www.wtfpl.net/
 ## Screenshot

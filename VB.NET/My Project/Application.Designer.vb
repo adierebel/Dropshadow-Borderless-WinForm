@@ -32,7 +32,7 @@ Namespace My
         
         <Global.System.Diagnostics.DebuggerStepThroughAttribute()>  _
         Protected Overrides Sub OnCreateMainForm()
-            Me.MainForm = Global.DropshadowBorderlessForm.FormShadow
+            Me.MainForm = Global.DropshadowBorderlessWinForm.FormShadow
         End Sub
     End Class
 End Namespace
